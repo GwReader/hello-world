@@ -1,5 +1,4 @@
 # hello-world
 my first repositary
 
-
-Gangwoo Kim. I've done with my task for l.point and i want to arrange my codes
+it is the other version of Readme. What will happen if i modify this file??
